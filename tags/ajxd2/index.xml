@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajxd2 on Terminal</title>
+    <link>/tags/ajxd2/</link>
+    <description>Recent content in Ajxd2 on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ajxd2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Blog</title>
+      <link>/posts/testing-blog/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/testing-blog/</guid>
+      <description>&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Bold and Italic&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;h3 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1
+&lt;ul&gt;
+&lt;li&gt;Subitem 1.1&lt;/li&gt;
+&lt;li&gt;Subitem 1.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1
+&lt;ol&gt;
+&lt;li&gt;Subitem 1.1&lt;/li&gt;
+&lt;li&gt;Subitem 1.2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links-and-images&#34;&gt;Links and Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openai.com&#34;&gt;OpenAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-11-30%20223740.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can nest lists inside blockquotes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;h3 id=&#34;inline-code&#34;&gt;Inline Code&lt;/h3&gt;
+&lt;p&gt;Use &lt;code&gt;code&lt;/code&gt; inline.&lt;/p&gt;
+&lt;h3 id=&#34;code-block&#34;&gt;Code Block&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Python example&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Markdown!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Header 1&lt;/th&gt;
+          &lt;th&gt;Header 2&lt;/th&gt;
+          &lt;th&gt;Header 3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Row 1&lt;/td&gt;
+          &lt;td&gt;Data 1&lt;/td&gt;
+          &lt;td&gt;Data 2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Row 2&lt;/td&gt;
+          &lt;td&gt;Data 3&lt;/td&gt;
+          &lt;td&gt;Data 4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;html-in-markdown&#34;&gt;HTML in Markdown&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-lists&#34;&gt;Task Lists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 2&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+&lt;p&gt;Here is a reference to a footnote.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Bold and Italic&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;h3 id=&#34;unordered-list&#34;&gt;Unordered List&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1
+&lt;ul&gt;
+&lt;li&gt;Subitem 1.1&lt;/li&gt;
+&lt;li&gt;Subitem 1.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1
+&lt;ol&gt;
+&lt;li&gt;Subitem 1.1&lt;/li&gt;
+&lt;li&gt;Subitem 1.2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links-and-images&#34;&gt;Links and Images&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openai.com&#34;&gt;OpenAI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-11-30%20223740.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can nest lists inside blockquotes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;h3 id=&#34;inline-code&#34;&gt;Inline Code&lt;/h3&gt;
+&lt;p&gt;Use &lt;code&gt;code&lt;/code&gt; inline.&lt;/p&gt;
+&lt;h3 id=&#34;code-block&#34;&gt;Code Block&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Python example&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Markdown!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Header 1&lt;/th&gt;
+          &lt;th&gt;Header 2&lt;/th&gt;
+          &lt;th&gt;Header 3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Row 1&lt;/td&gt;
+          &lt;td&gt;Data 1&lt;/td&gt;
+          &lt;td&gt;Data 2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Row 2&lt;/td&gt;
+          &lt;td&gt;Data 3&lt;/td&gt;
+          &lt;td&gt;Data 4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;html-in-markdown&#34;&gt;HTML in Markdown&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;task-lists&#34;&gt;Task Lists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 2&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Task 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+&lt;p&gt;Here is a reference to a footnote.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;emojis&#34;&gt;Emojis&lt;/h2&gt;
+&lt;p&gt;😄 🎉 🚀&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math-using-latex-syntax&#34;&gt;Math (Using LaTeX Syntax)&lt;/h2&gt;
+&lt;p&gt;Inline: $E = mc^2$&lt;/p&gt;
+&lt;p&gt;Block:
+$$
+\frac{a}{b} = c
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;escape-characters&#34;&gt;Escape Characters&lt;/h2&gt;
+&lt;p&gt;Use *backslashes* to escape special characters.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;syntax-highlighting-custom-language&#34;&gt;Syntax Highlighting (Custom Language)&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// JavaScript example
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This is the footnote text.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
