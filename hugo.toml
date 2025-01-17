@@ -73,7 +73,7 @@ languageName = "English"
 title = "AJXD2's Blog"
 
 [languages.en.params]
-subtitle = ""
+subtitle = "My personal blog"
 owner = "AJXD2"
 keywords = ""
 copyright = ""
